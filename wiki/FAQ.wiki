@@ -1,0 +1,13 @@
+#summary OpenPCRF Frequently Asked Questions.
+
+= OpenPCRF Frequently Asked Questions =
+
+This is the FAQ (Frequently Asked Questions) for the OpenPCRF project. It contains both general and technical information about the OpenPCRF projects' status, what it is and what it does, how to obtain and configure and run it, and more. 
+
+= OpenPCRF Overview =
+
+== What is OpenPCRF ? ==
+
+== What platforms does it run on? ==
+
+OpenPCRF runs on a large number of 32 and 64bit Unix-like platforms.
